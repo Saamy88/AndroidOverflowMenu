@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OverflowMenu</string>
+
+    <string name="menu_selection">Select background Color on the Overflow Menu</string>
+    <string name="red_string">Red</string>
+    <string name="green_string">Green</string>
+    <string name="yellow_string">Yellow</string>
+
+</resources>
